@@ -1,0 +1,58 @@
+[
+  {
+    "codigo": 101,
+    "nome": "Teste",
+    "tipo_seguro": "Saude",
+    "status": "novo",
+    "valor_da_proposta": 1500.0,
+    "data": "23/11/2026"
+  },
+  {
+    "codigo": 102,
+    "nome": "Teste 2",
+    "tipo_seguro": "Auto",
+    "status": "Em negociacao",
+    "valor_da_proposta": 1800.0,
+    "data": "23/11/2026"
+  },
+  {
+    "codigo": 102,
+    "nome": "Teste 2",
+    "tipo_seguro": "vida",
+    "status": "novo",
+    "valor_da_proposta": 700.0,
+    "data": "23/11/2026"
+  },
+  {
+    "codigo": 1,
+    "nome": "Talia",
+    "tipo_seguro": "saude",
+    "status": "novo",
+    "valor_da_proposta": 400.0,
+    "data": "23/11/26"
+  },
+  {
+    "codigo": 2,
+    "nome": "Talia 2",
+    "tipo_seguro": "vida",
+    "status": "fechado",
+    "valor_da_proposta": 600.0,
+    "data": "23/11/26"
+  },
+  {
+    "codigo": 3,
+    "nome": "Talia 3",
+    "tipo_seguro": "auto",
+    "status": "em negociacao",
+    "valor_da_proposta": 300.0,
+    "data": "23/11/26"
+  },
+  {
+    "codigo": 4,
+    "nome": "Talia 4",
+    "tipo_seguro": "residencial",
+    "status": "novo",
+    "valor_da_proposta": 500.0,
+    "data": "23/11/26"
+  }
+]
